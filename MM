@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> FONT STYLES </title>
+    <style>
+        h1{
+            padding: 20px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 30px;
+            background-color: rosybrown;
+        }
+        h4{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-style: italic;
+            font-size: 25px;
+        }
+p{
+    font-size: 30px;
+}
+
+    </style>
+</head>
+<body>
+<h1> Influencers in the wild</h1>
+<p> Most influncers like to think that their ass is the most important and valuable asset.</p>
+
+<p> Wherever the place their gonna pull it out anyway.</p>
+<h4><mark> example </mark></h4>
+<p> A lady went on a ski trip and the only thing that was on her mind was not to ski. Instead she whip her booty out.<br> The mountain ranger had to go over and ask her to stop because there were kids around because its a <b> PUBLIC MOUNTAIN. </b> </p>
+<img src="image/influencer.jpg" alt="influencer">
+<p> My only question is why would a person go to an environment that is historically family friendly and do that.</p>
+<p> We should tell these influencers that everything you do is not supposed to be sexual and showing off the female body</p>
+</body> 
+</html>
